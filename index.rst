@@ -10,7 +10,7 @@ Step-by-Step Activation of HBO Max on TV via hbomax.com/tvsignin
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
